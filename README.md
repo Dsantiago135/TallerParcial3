@@ -3,13 +3,13 @@
 Este Proyecto consta de 8 opciones en las cuales podras registar tanto libros como lectores, prestar libros, devolver libros, guardar los datos generados y ver las multas realizadas
 puedes acceder a estas funciones desde
 
--http://localhost:4567/PrestarLibro/102/45
+-http://localhost:4567/PrestarLibro/102/45/354
 
 -http://localhost:4567/RegistrarCopia/28/Disponible/Spiderman
 
 -http://localhost:4567/RegistrarLector/2463/Pedro/Hernandez/cr24n56
 
--http://localhost:4567/PrestarLibro/2463/28
+-http://localhost:4567/PrestarLibro/2463/28/364
 
 -http://localhost:4567/DevolverLibro/2463/28
 
