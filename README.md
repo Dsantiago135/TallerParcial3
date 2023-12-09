@@ -18,6 +18,8 @@ puedes acceder a estas funciones desde
 
 -http://localhost:4567/DevolverLibro/102/45
 
+localhost:4567/DevolverLibro/2463/28
+
 -http://localhost:4567/VerMultas
 
 -http://localhost:4567/VerCopias
