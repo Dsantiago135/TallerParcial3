@@ -4,6 +4,7 @@ Diagrama de flujo: https://drive.google.com/file/d/1hK-lDAFJR9FU2HBmtanmDJdKElIh
 
 Rta punto 2/: El díagrama de entidad relación es confuso debido a que la clase o entidad copia posee acciones que un lector o persona debería hacer. Adicionalmente, el simple hecho de que se llame así es confuso de por sí. Si de alguna forma se desea tener contabilizada la cantidad de libros o copias de libros disponibles, se optaría por tener una clase stock que actúe como inventario de las copias de libros disponibles. Para añadir, no se evidencia la relación entre las entidades por medio de un campo o atributo que actue como llave de relación, ocasionando que no sea intuitivo la forma en que se relacionan las entidades, a parte de las líneas de agregación y dependencia
 
+EXPLICACION proyecto
 Este Proyecto consta de 8 opciones en las cuales podras registar tanto libros como lectores, prestar libros, devolver libros, etc.
 
 puedes acceder a estas funciones desde
