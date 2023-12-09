@@ -19,6 +19,8 @@ puedes acceder a estas funciones desde
 
 -http://localhost:4567/VerLectores
 
+-http://localhost:4567/VerPrestamos
+
 
 Para el registro de copias es necesario el numero identificador y su estado (disponible, no disponible).
 
