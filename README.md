@@ -1,5 +1,7 @@
 # TallerParcial3#
 
+Diagrama de flujo: https://drive.google.com/file/d/1hK-lDAFJR9FU2HBmtanmDJdKElIhq8UU/view?usp=sharing
+
 Este Proyecto consta de 8 opciones en las cuales podras registar tanto libros como lectores, prestar libros, devolver libros, etc.
 
 puedes acceder a estas funciones desde
