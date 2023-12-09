@@ -18,7 +18,7 @@ puedes acceder a estas funciones desde
 
 -http://localhost:4567/PrestarLibro/2463/28/364
 
--http://localhost:4567/DevolverLibro/2463/28
+-http://localhost:4567/DevolverLibro/102/45
 
 -http://localhost:4567/VerMultas
 
