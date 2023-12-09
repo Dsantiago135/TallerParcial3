@@ -4,6 +4,7 @@ Este Proyecto consta de 8 opciones en las cuales podras registar tanto libros co
 puedes acceder a estas funciones desde
 
 -http://localhost:4567/CargarDatos 
+-http://localhost:4567/PrestarLibro/102/45
 
 -http://localhost:4567/RegistrarCopia/28/Disponible/Spiderman
 
